@@ -25,10 +25,9 @@ Version 0.4.0 del juego disponible en releases.
 ## Capturas
 
 ![Game](./media/snapABYSS1.png)
-![Game](./media/snapABYSS2.png)
 ![Game](./media/snapABYSS3.png)
 ![Game](./media/snapABYSS4.png)
-![Game](./media/snapABYSS5.png)
+![Game](./media/snapABYSS6.png)
 
 
 
