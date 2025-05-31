@@ -14,11 +14,9 @@ La oscuridad, las criaturas mutadas y un entorno hostil ponen a prueba la habili
 - Vista cenital con ambientación densa
 - Música original y efectos de sonido envolventes
 
-## Advertencia de contenido
-
-Este juego contiene escenas de suspenso, criaturas perturbadoras y efectos sonoros que pueden afectar a personas sensibles.
-
 ## Demo
+
+ADVERTENCIA: Este juego contiene escenas de suspenso, criaturas perturbadoras y efectos sonoros que pueden afectar a personas sensibles.
 
 Version 0.4.0 del juego disponible en releases.
 
