@@ -1,4 +1,4 @@
-# Abyss
+# ABYSS
 
 **Abyss** es un roguelike / survival horror con vista cenital ¾, ambientado en unas instalaciones subterráneas bajo el volcán Galeras. El jugador asume el rol de **Esteban**, un técnico exmilitar encargado de recuperar un cristal energético conocido como *Lumenilo* antes de una inminente erupción volcánica.
 
