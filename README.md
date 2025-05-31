@@ -18,7 +18,7 @@ La oscuridad, las criaturas mutadas y un entorno hostil ponen a prueba la habili
 
 **ADVERTENCIA:** Este juego contiene escenas de suspenso, criaturas perturbadoras y efectos sonoros que pueden afectar a personas sensibles.
 
-[Version 0.4.0](https://github.com/jGekko/abyss/releases/tag/v0.4.0-beta)
+[Descarga: Version 0.4.0](https://github.com/jGekko/abyss/releases/tag/v0.4.0-beta)
 
 ## Capturas
 
